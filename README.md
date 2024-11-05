@@ -1,2 +1,3 @@
 # advanced_real_time_denoising_app_with_resolution
 To develop a real-time image denoising application including Haar wavelet transform, providing users with an intuitive GUI for loading, processing, and visualizing images
+To develop a real-time image denoising application including Haar wavelet transform, providing users with an intuitive GUI for loading, processing, and visualizing images. The application allows dynamic adjustments of noise level, filter strength, and resolution in real time, enabling effective noise reduction. Users can choose from multiple denoising algorithms and save processed images for further use. This project aims to enhance understanding of wavelet transforms and improve digital image quality.
